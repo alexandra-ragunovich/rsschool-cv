@@ -1,1 +1,0 @@
-https://alexandra-ragunovich.github.io/rsschool-cv/cv
