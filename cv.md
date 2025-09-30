@@ -35,5 +35,6 @@ Here is a solution to a problem from Codewars:
 ```
 ## Education 
  Completed UI/UX designer course in UX mind school, HTML,CSS,React course in CodeAcademy
- ## Languages
+
+## Languages
  English(B1), Polish(A2), Italian(A1) 
